@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap>
+  <siteMapNode title="Home" description="Home" url="Menu_Main.aspx" >
+    <siteMapNode title="Students Registration" description="Students">
+      <siteMapNode title="Add Student"
+       description="Add Student"
+       url="Students_registration.aspx" />
+      <siteMapNode title="Search Student"
+       description="Search Student"
+       url="Search_student.aspx" />
+    </siteMapNode>
+    <siteMapNode title="Reports">
+      <siteMapNode title="Date"
+       url="Grant_date.aspx" />
+      <siteMapNode title="Yealy and Monthly basis"
+       url="year_to_date.aspx" />
+      <siteMapNode title="Monthly Grant"
+       url="monthly_grant.aspx" />
+      <siteMapNode title="Monthly campus summary"
+       url="Monthly_campus_summary.aspx" />
+      <siteMapNode title="Monthly Campus Grant Summary"
+      url="Monthly_campus_grant_summary.aspx" />
+      <siteMapNode title="Monthly Faculty grant summary"
+      url="Monthly_fac_grant_summary.aspx" />
+    </siteMapNode>
+    <siteMapNode title="Reports of Student">
+      <siteMapNode title="Gender"
+       url="Report_gender.aspx" />
+      <siteMapNode title="Ethnicity"
+       url="rep_ethnicity.aspx" />
+      <siteMapNode title="Campus Total"
+       url="CampusTotal.aspx" />
+      <siteMapNode title="Campus Report"
+      url="campus_report.aspx" />
+    </siteMapNode>
+    <siteMapNode title="Add Grant"
+       description="Add Grant"
+       url="Add_grant.aspx" />
+  </siteMapNode>
+</siteMap>
